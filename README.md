@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Soumen-Mandal/Soumen-Mandal/blob/main/Black%20Blue%20Simple%20Gaming%20Banner%20Landscape.png)
 <h1 align="center">Hi 👋<h1 align="center">Hi 👋, I'm Soumen Mandal</h1>
 <h3 align="center">Always ready to explore data</h3>
 
